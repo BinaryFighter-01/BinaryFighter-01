@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Anil B Abhange
+# Anil Basasheb Abhange
 
+I am an AI & Data Science undergraduate at Savitribai Phule Pune University, India. I am skilled in Python, SQL, YOLOv8, and web development technologies like HTML, CSS, and JavaScript, with a focus on building machine learning models and data-driven solutions.
 
-<!---
-added extra layer of securty.
-BinaryFighter-01/BinaryFighter-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## Contact
 
-added new cooment here
---->
+- **Email**: [anilabhange219411@gmail.com](mailto:anilabhange219411@gmail.com)  
+- **LinkedIn**: [Anil Abhange](https://linkedin.com/in/anil-abhange)  
+- **GitHub**: [AnilAbhange](https://github.com/AnilAbhange)  
+- **Phone**: +91-932-205-3790
