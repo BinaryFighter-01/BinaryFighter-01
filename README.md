@@ -8,4 +8,5 @@ I am an AI & Data Science undergraduate at Savitribai Phule Pune University, Ind
 - **LinkedIn**: [Anil Abhange](https://linkedin.com/in/anil-abhange)  
 - **GitHub**: [AnilAbhange](https://github.com/AnilAbhange)  
 
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
