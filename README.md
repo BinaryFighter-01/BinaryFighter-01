@@ -93,7 +93,7 @@ Problem Solving, Quick Learner, Adaptability, Communication, Teamwork, Leadershi
 - 💻 **GitHub**: [AnilAbhange](https://github.com/AnilAbhange)  
 
 ---
-
+<!--
 ## 🏷️ Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -103,9 +103,4 @@ Problem Solving, Quick Learner, Adaptability, Communication, Teamwork, Leadershi
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
 """
 
-# Saving the content into a markdown file
-file_path = "/mnt/data/Anil_Abhange_README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
 
-file_path
