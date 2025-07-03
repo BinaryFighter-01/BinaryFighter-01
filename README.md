@@ -59,16 +59,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BinaryFighter-01&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BinaryFighter-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
