@@ -1,10 +1,10 @@
 # 💫 About Me:
-<h2 align="center" style="border: 2px solid #00ffc8; border-radius: 12px; padding: 10px; color: #00ffc8; background-color: transparent;">
+<h2 align="center" style="border: 1px solid #00ffc8; padding: 8px; color: #00ffc8; background-color: transparent;">
   👋 Hi, I'm Anil Babasaheb Abhange<br>
 </h2>
-<br>I'm a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
+<br>I'm a final-year student pursuing a degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
 
-<h2 align="center" style="border: 2px solid #00ffc8; border-radius: 12px; padding: 10px; color: #00ffc8; background-color: transparent;">
+<h2 align="center" style="border: 1px solid #00ffc8; padding: 6px; color: #00ffc8; background-color: transparent;">
   ✨ Watch the Snake Eat My Contributions ✨
 </h2>
 
@@ -18,15 +18,16 @@
       style="max-width: 100%; height: auto;"
     />
   </picture>
+
+<h2 align="center" style="border: 1px solid #00ffc8; padding: 8px; color: #00ffc8; background-color: transparent;">
+  🚀 Explore My Digital Universe<br>
+
+<p align="center">
+  <a href="https://anil-b-abhange.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Check%20Out%20My%20Portfolio-%2300ffc3?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=000000&color=00ffc3" alt="Crazy Modern Portfolio Button"/>
+  </a>
 </p>
 
-
-🎓 Final-year undergraduate with a passion for innovation and learning<br>
-🧠 Interested in fields like **Machine Learning**, **Data Science**, **Artificial Intelligence** and **Computer Vision**<br>
-🌐 I also work on **web development** projects and backend systems<br>
-🚁 Built projects like **UAV detection systems**, **legal education platforms**, and more<br>
-🔍 Always eager to explore new technologies and tools<br>
-🤝 Open to internships, freelance work, and open-source contributions
 
 
 ## 🌐 Socials:
@@ -62,6 +63,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=BinaryFighter-01&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+<p align="center">
+  💖 Thank you for visiting my GitHub profile! Feel free to connect, explore, and collaborate. 🚀
+</p>
 
 <!-- Proudly created by Anil Abhange -->
