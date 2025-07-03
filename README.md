@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Anil Babasaheb Abhange<br>
+<h2 align="center" style="border: 2px solid #00ffc8; border-radius: 12px; padding: 10px; color: #00ffc8; background-color: transparent;">
+  👋 Hi, I'm Anil Babasaheb Abhange<br>
+</h2>
 <br>I'm a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
 
 <h2 align="center" style="border: 2px solid #00ffc8; border-radius: 12px; padding: 10px; color: #00ffc8; background-color: transparent;">
