@@ -1,6 +1,24 @@
 # 💫 About Me:
 👋 Hi, I'm Anil Babasaheb Abhange<br>
 <br>I'm a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
+
+<h2 align="center" style="border: 2px solid #00ffc8; border-radius: 12px; padding: 10px; color: #00ffc8; background-color: transparent;">
+  ✨ Watch the Snake Eat My Contributions ✨
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake.svg"
+      style="max-width: 100%; height: auto;"
+    />
+  </picture>
+</p>
+
+
 🎓 Final-year undergraduate with a passion for innovation and learning<br>
 🧠 Interested in fields like **Machine Learning**, **Data Science**, **Artificial Intelligence** and **Computer Vision**<br>
 🌐 I also work on **web development** projects and backend systems<br>
@@ -8,20 +26,6 @@
 🔍 Always eager to explore new technologies and tools<br>
 🤝 Open to internships, freelance work, and open-source contributions
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/BinaryFighter-01/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heyanil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-b-abhange) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anil-abhange) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilabhange219411@gmail.com) 
