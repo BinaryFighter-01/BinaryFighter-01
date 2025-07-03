@@ -2,16 +2,15 @@
 <h2 align="left">
   👋 Hi, I'm Anil Babasaheb Abhange &nbsp;
   <a href="https://anil-b-abhange.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-00ffcc?style=flat&color=00ffcc" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-00ffcc?style=for-the-badge&color=00ffcc" alt="Visit Portfolio" />
   </a>
 </h2>
 
 
-
 <br>I'm a final-year student pursuing a degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
 
-<h2 align="center" style="border: 2px solid #00ffc8; padding: 8px; color: #00ffc8; background-color: transparent;">
-  ✨ Watch the Snake Eat My Contributions ✨
+<h2 align="left" style="border: 2px solid #00ffc8; padding: 8px; color: #00ffc8; background-color: transparent;">
+  🐍 My GitHub Contributions in Motion
 </h2>
 
 <p align="center">
@@ -57,11 +56,10 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
----
----
+
 
 <p align="center">
-  💖 Thank you for visiting my GitHub profile! Feel free to connect, explore, and collaborate. 🚀
+  💖 Thank you for visiting my GitHub profile ! <br> Feel free to connect, explore, and collaborate. 🚀
 </p>
 
 <!-- Proudly created by Anil Abhange -->
