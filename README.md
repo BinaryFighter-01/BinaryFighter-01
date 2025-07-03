@@ -1,10 +1,11 @@
-# 💫 About Me:
-<h2 align="center">
+#  About Me:
+<h2 align="left">
   👋 Hi, I'm Anil Babasaheb Abhange &nbsp;
   <a href="https://anil-b-abhange.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-00ffcc?style=flat-square&logo=google-chrome&logoColor=white&color=00ffcc" alt="Visit Portfolio Button" style="border-radius: 12px;" />
+    🌐 <img src="https://img.shields.io/badge/Visit%20Portfolio-00ffcc?style=for-the-badge&logo=google-chrome&logoColor=white&color=00ffcc" alt="Visit Portfolio" />
   </a>
 </h2>
+
 
 <br>I'm a final-year student pursuing a degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
 
