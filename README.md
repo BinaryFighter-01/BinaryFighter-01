@@ -10,12 +10,13 @@
 ---
 
 # 💫 About Me:
-# 👋 Hi, I'm Anil Abhange<br><br>I'm a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
+##👋 Hi, I'm Anil Abhange<br><br>I'm a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University, India. I enjoy using technology to solve real-world problems and build smart, useful systems.<br><br>
 🎓 Final-year undergraduate with a passion for innovation and learning<br>
-🧠 Interested in fields like **machine learning**, **data science**, and **computer vision**<br>
+🧠 Interested in fields like **machine learning**, **data science**,**Artificial Intelligence** and **computer vision**<br>
 🌐 I also work on **web development** projects and backend systems<br>
 🚁 Built projects like **UAV detection systems**, **legal education platforms**, and more<br>
-🔍 Always eager to explore new technologies and tools<br>- 🤝 Open to internships, freelance work, and open-source contributions
+🔍 Always eager to explore new technologies and tools<br>
+🤝 Open to internships, freelance work, and open-source contributions
 
 
 ## 🌐 Socials:
