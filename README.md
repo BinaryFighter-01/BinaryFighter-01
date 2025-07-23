@@ -43,13 +43,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BinaryFighter-01&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 
