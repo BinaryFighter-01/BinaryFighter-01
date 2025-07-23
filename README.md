@@ -50,9 +50,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
-
+<br>
+<br>
 <p align="center">
-  💖 Thank you for visiting my GitHub profile ! <br> Feel free to connect, explore, and collaborate. 🚀
+  💖 Thank you for visiting my GitHub profile ! Feel free to connect, explore, and collaborate. 🚀
 </p>
 
 <!-- Proudly created by Anil Abhange -->
