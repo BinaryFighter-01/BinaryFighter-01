@@ -2,7 +2,7 @@
 <h2 align="left">
   👋 Hi, I'm Anil Babasaheb Abhange &nbsp;
   <a href="https://anil-b-abhange.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-00ffcc?style=for-the-badge&color=00ffcc" alt="Visit Portfolio" />
+    <"Visit Portfolio"/>
   </a>
 </h2>
 
