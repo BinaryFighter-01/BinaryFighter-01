@@ -1,4 +1,3 @@
-#  About Me:
 <h2 align="left">
   👋 Hi, I'm Anil Babasaheb Abhange &nbsp;
   <a href="https://anil-b-abhange.vercel.app/" target="_blank">
