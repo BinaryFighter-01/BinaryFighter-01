@@ -2,27 +2,15 @@
 
 # Anil Babasaheb Abhange
 
-**AI & Data Science Engineer** | Final Year Student  
-Savitribai Phule Pune University, India
-
-### 🎯 Featured Portfolio
-
-[![Portfolio Preview](https://via.placeholder.com/800x400/1a1a1a/00ffcc?text=Click+to+View+My+Portfolio)](https://heyanil.netlify.app/)
-
-
----
-
-### Connect With Me
-<div align="center">
-
-<h1 align="center">👋 Hi, I'm Anil Babasaheb Abhange</h1>
-
 <h3 align="center">AI & Data Science Engineer | Final Year Student</h3>
 
 <p align="center">
  <i>"Solving Complex Problems with Elegant Code"</i>
 </p>
+### About Me
+I am a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University. I enjoy using technology to solve real-world problems and build smart, useful systems.
 
+<br>
 <br>
 
 <!-- PORTFOLIO SECTION -->
@@ -39,10 +27,6 @@ Savitribai Phule Pune University, India
 
 ---
 
-### 🚀 About Me
-I am a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University. I enjoy using technology to solve real-world problems and build smart, useful systems.
-
-<br>
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -64,7 +48,7 @@ I am a final-year student pursuing a degree in **Artificial Intelligence & Data 
 
 <br>
 
-### 🌐 Connect With Me
+###  Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/anil-b-abhange">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
