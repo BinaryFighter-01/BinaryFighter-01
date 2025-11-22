@@ -7,8 +7,8 @@
 <p align="center">
  <i>"Solving Complex Problems with Elegant Code"</i>
 </p>
-### About Me
-I am a final-year student pursuing a degree in **Artificial Intelligence & Data Science** from Savitribai Phule Pune University. I enjoy using technology to solve real-world problems and build smart, useful systems.
+
+I am a final-year student pursuing a degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University. I enjoy using technology to solve real-world problems and build smart, useful systems.
 
 <br>
 <br>
@@ -32,13 +32,10 @@ I am a final-year student pursuing a degree in **Artificial Intelligence & Data 
 
 ###  Connect With Me
 <p align="center">
-  </div>
-
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://heyanil.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-b-abhange)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thelight.tor5@gmail.com)
-
-</div>
 </p>
 
 <br>
