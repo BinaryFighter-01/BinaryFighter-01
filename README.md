@@ -15,7 +15,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 
 <!-- PORTFOLIO SECTION -->
 <!-- Upload your image as 'portfolio-preview.jpg' to your repo for this to work -->
-<a href="https://anilabhange.netlify.app/" target="_blank">
+<a href="[https://anilabhange.netlify.app/](https://anil-abhange-kappa.vercel.app/)" target="_blank">
   <img src="./Screenshot 2025-11-23 012717.png" 
        alt="Click to Visit My Portfolio" 
        width="800"
@@ -34,7 +34,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 ###  Connect With Me
 <p align="center">
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://anilabhange.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)]([https://anilabhange.netlify.app/](https://anil-abhange-kappa.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anil-b-abhange)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thelight.tor5@gmail.com)
 </p>
