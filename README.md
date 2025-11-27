@@ -15,7 +15,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 
 <!-- PORTFOLIO SECTION -->
 <!-- Upload your image as 'portfolio-preview.jpg' to your repo for this to work -->
-<a href="[[https://anilabhange.netlify.app/](https://anil-abhange-kappa.vercel.app/)](https://anil-abhange-kappa.vercel.app/)" target="_blank">
+<a href="[[https://anil-abhange-kappa.vercel.app/](https://anil-abhange-kappa.vercel.app/)](https://anil-abhange-kappa.vercel.app/)" target="_blank">
   <img src="./Screenshot 2025-11-23 012717.png" 
        alt="Click to Visit My Portfolio" 
        width="800"
