@@ -13,7 +13,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 <br>
 
 <!-- PORTFOLIO SECTION -->
-<a href="https://anil-abhange-kappa.vercel.app/" target="_blank">
+<a href="https://anil-abhange-anna.vercel.app/" target="_blank">
   <img src="./Screenshot 2025-11-23 012717.png" 
        alt="Click to Visit My Portfolio" 
        width="800"
@@ -31,7 +31,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 ### Connect With Me
 <p align="center">
  
-<a href="https://anil-abhange-kappa.vercel.app/" target="_blank">
+<a href="https://anil-abhange-anna.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white">
 </a>
 
