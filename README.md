@@ -12,7 +12,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 
 <br>
 
-<!-- PORTFOLIO SECTION -->
+<!-- PORTFOLIO SECTION
 <a href="https://anil-abhange-anna.vercel.app/" target="_blank">
   <img src="./Screenshot 2025-11-23 012717.png" 
        alt="Click to Visit My Portfolio" 
@@ -23,7 +23,7 @@ I am a final-year student pursuing a degree in Artificial Intelligence & Data Sc
 <p style="margin-top: 20px; font-size: 1.4rem; font-weight: bold;">
   👆 <b>Explore My Portfolio</b>
 </p>
-
+ -->
 <br>
 
 ---
