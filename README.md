@@ -8,7 +8,8 @@
  <i>"Solving Complex Problems with Elegant Code"</i>
 </p>
 
-I am a final-year student pursuing a degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University. I enjoy using technology to solve real-world problems and build smart, useful systems.
+A recent graduate with a Bachelor's degree in Artificial Intelligence & Data Science from Savitribai Phule Pune University (June 2026), driven by a genuine curiosity for technology and its potential to solve real-world challenges. Passionate about building intelligent, practical, and user-focused solutions while continuously learning, exploring new ideas, and growing as an AI and software development professional. Eager to contribute to meaningful projects that create a positive impact through innovation and technology.
+
 
 <br>
 
