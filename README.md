@@ -2,7 +2,7 @@
 
 # Anil Babasaheb Abhange
 
-<h3 align="center">AI & Data Science Engineering | Final Year Student</h3>
+<h3 align="center">Artificial Intelligence & Data Science Graduate | AI Developer | Problem Solver</h3>
 
 <p align="center">
  <i>"Solving Complex Problems with Elegant Code"</i>
