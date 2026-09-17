@@ -9,7 +9,7 @@
 <!-- ================= HERO / NEOFETCH CARD ================= -->
 <div align="center">
 
-<img src="./hero_card.png" alt="Anil Abhange - terminal profile card" width="880">
+<img src="./hero_card.gif" alt="Anil Abhange - terminal profile card" width="880">
 
 </div>
 
