@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=ANIL%20ABHANGE&fontSize=42&fontColor=39FF88&animation=fadeIn&fontAgentic%20Systems%20%7C%20Forward%20Deployed%20Engineer&descAlignY=58&descSize=16&descColor=56D4DD)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=ANIL%20ABHANGE&fontSize=42&fontColor=39FF88&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Forward%20Deployed%20Engineer&descAlignY=58&descSize=16&descColor=56D4DD)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=39FF88&background=00000000&center=true&vCenter=true&width=750&lines=Building+autonomous+LLM+agents+that+ship;RAG+%7C+Multi-Agent+Systems+%7C+Computer+Vision;Evaluating%2C+securing%2C+and+scaling+AI+in+production;Currently%3A+compiling_the_future())](https://git.io/typing-svg)
 
